@@ -1,0 +1,974 @@
+﻿{
+    "headings":  {
+                     "1.5 Organization of the Report":  {
+                                                            "doc_page":  15,
+                                                            "body_page":  8
+                                                        },
+                     "6.1 Objectives and Test Strategy":  {
+                                                              "doc_page":  39,
+                                                              "body_page":  32
+                                                          },
+                     "Figure 7.8: Procedural Zoom \u0026 Glitch VFX Synchronization Waveform":  {
+                                                                                                    "doc_page":  45,
+                                                                                                    "body_page":  38
+                                                                                                },
+                     "6.2 Unit Testing":  {
+                                              "doc_page":  39,
+                                              "body_page":  32
+                                          },
+                     "2.4 Deep Learning in Speech Recognition and Computer Vision":  {
+                                                                                         "doc_page":  19,
+                                                                                         "body_page":  12
+                                                                                     },
+                     "6.6 Performance, Memory \u0026 Stress Testing":  {
+                                                                           "doc_page":  42,
+                                                                           "body_page":  35
+                                                                       },
+                     "3.6.3 Hardware Requirements\r\u0007":  {
+                                                                 "doc_page":  7,
+                                                                 "body_page":  7
+                                                             },
+                     "7.6\r\u0007":  {
+                                         "doc_page":  9,
+                                         "body_page":  2
+                                     },
+                     "Figure 7.1: Project Ingestion \u0026 Asset Library Dashboard":  {
+                                                                                          "doc_page":  43,
+                                                                                          "body_page":  36
+                                                                                      },
+                     "Figure 7.5 illustrates the kinetic subtitle inspector, displaying timestamped sub-word phrases with styling controls.":  {
+                                                                                                                                                   "doc_page":  44,
+                                                                                                                                                   "body_page":  37
+                                                                                                                                               },
+                     "7.10\r\u0007":  {
+                                          "doc_page":  9,
+                                          "body_page":  2
+                                      },
+                     "Table 7.1: Comprehensive Commercial Feature Matrix":  {
+                                                                                "doc_page":  46,
+                                                                                "body_page":  39
+                                                                            },
+                     "2.2 Survey of Existing Automated Video Editing Frameworks\r\u0007":  {
+                                                                                               "doc_page":  7,
+                                                                                               "body_page":  7
+                                                                                           },
+                     "8.1 Summary of Stage-I Contributions":  {
+                                                                  "doc_page":  48,
+                                                                  "body_page":  41
+                                                              },
+                     "4.2.6 Component \u0026 Deployment Modeling\r\u0007":  {
+                                                                                "doc_page":  7,
+                                                                                "body_page":  7
+                                                                            },
+                     "8.2 Practical Engineering Limitations Identified":  {
+                                                                              "doc_page":  48,
+                                                                              "body_page":  41
+                                                                          },
+                     "4.2.2 Class Diagram \u0026 Structural Domain Model":  {
+                                                                                "doc_page":  29,
+                                                                                "body_page":  22
+                                                                            },
+                     "4.5 Dual-Pass FFmpeg WebAssembly Memory Architecture\r\u0007":  {
+                                                                                          "doc_page":  7,
+                                                                                          "body_page":  7
+                                                                                      },
+                     "Table 6.2: System Integration Test Cases and End-to-End Validation":  {
+                                                                                                "doc_page":  40,
+                                                                                                "body_page":  33
+                                                                                            },
+                     "Figure 7.6 showcases the WebAssembly export panel providing real-time encoding progress and instant local MP4 download.":  {
+                                                                                                                                                     "doc_page":  44,
+                                                                                                                                                     "body_page":  37
+                                                                                                                                                 },
+                     "7.1.1 Project Ingestion \u0026 Asset Library Dashboard":  {
+                                                                                    "doc_page":  43,
+                                                                                    "body_page":  36
+                                                                                },
+                     "6.5 Whisper ASR Word Error Rate (WER) Evaluation":  {
+                                                                              "doc_page":  41,
+                                                                              "body_page":  34
+                                                                          },
+                     "5.4 Cross-Origin Isolation \u0026 Security Configuration\r\u0007":  {
+                                                                                              "doc_page":  8,
+                                                                                              "body_page":  1
+                                                                                          },
+                     "Table 7.1 presents a comprehensive commercial feature matrix comparing Vibe-Cuts against leading commercial video editing suites.":  {
+                                                                                                                                                               "doc_page":  46,
+                                                                                                                                                               "body_page":  39
+                                                                                                                                                           },
+                     "6.4 Audio Beat Synchronization Validation":  {
+                                                                       "doc_page":  41,
+                                                                       "body_page":  34
+                                                                   },
+                     "1.4 Scope and Feasibility of the Project":  {
+                                                                      "doc_page":  15,
+                                                                      "body_page":  8
+                                                                  },
+                     "Figure 4.4: UML Activity Diagram Depicting Parallel Multithreaded Processing":  {
+                                                                                                          "doc_page":  30,
+                                                                                                          "body_page":  23
+                                                                                                      },
+                     "3.6.4 Software Requirements":  {
+                                                         "doc_page":  26,
+                                                         "body_page":  19
+                                                     },
+                     "4.4 Mathematical Formulations \u0026 Audio Digital Signal Processing":  {
+                                                                                                  "doc_page":  31,
+                                                                                                  "body_page":  24
+                                                                                              },
+                     "5.4 Cross-Origin Isolation \u0026 Security Configuration":  {
+                                                                                      "doc_page":  38,
+                                                                                      "body_page":  31
+                                                                                  },
+                     "2.2 Survey of Existing Automated Video Editing Frameworks":  {
+                                                                                       "doc_page":  17,
+                                                                                       "body_page":  10
+                                                                                   },
+                     "Figure 7.10 presents comparative latency benchmarks across video ingestion, audio DSP, and video rendering between Vibe-Cuts and cloud SaaS suites.":  {
+                                                                                                                                                                                 "doc_page":  45,
+                                                                                                                                                                                 "body_page":  38
+                                                                                                                                                                             },
+                     "2.3 Evolution of Web Computing: WebAssembly and Client-Side Media Processing":  {
+                                                                                                          "doc_page":  18,
+                                                                                                          "body_page":  11
+                                                                                                      },
+                     "Figure 3.1 illustrates the functional flow chart of automated highlight reel generation, tracing execution from ingestion to MP4 export.":  {
+                                                                                                                                                                      "doc_page":  23,
+                                                                                                                                                                      "body_page":  16
+                                                                                                                                                                  },
+                     "6.1\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "4.4.2 Moving-Window RMS \u0026 Adaptive Peak Picking Algorithm":  {
+                                                                                            "doc_page":  32,
+                                                                                            "body_page":  25
+                                                                                        },
+                     "5.3 Web UI Component Architecture \u0026 Timeline Canvas":  {
+                                                                                      "doc_page":  38,
+                                                                                      "body_page":  31
+                                                                                  },
+                     "7.1.4 Cinematic VFX \u0026 Filter Customization Panel":  {
+                                                                                   "doc_page":  43,
+                                                                                   "body_page":  36
+                                                                               },
+                     "2.4 Deep Learning in Speech Recognition and Computer Vision\r\u0007":  {
+                                                                                                 "doc_page":  7,
+                                                                                                 "body_page":  7
+                                                                                             },
+                     "2.1\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "7.1.6 WASM Export \u0026 Multi-Format Render Panel":  {
+                                                                                "doc_page":  44,
+                                                                                "body_page":  37
+                                                                            },
+                     "5.1 Technology Stack \u0026 Architectural Setup\r\u0007":  {
+                                                                                     "doc_page":  8,
+                                                                                     "body_page":  1
+                                                                                 },
+                     "7.1.2 HomeScreen \u0026 Main Video Studio Editor":  {
+                                                                              "doc_page":  43,
+                                                                              "body_page":  36
+                                                                          },
+                     "LIST OF TABLES":  {
+                                            "doc_page":  10,
+                                            "body_page":  3
+                                        },
+                     "3.1 Introduction\r\u0007":  {
+                                                      "doc_page":  7,
+                                                      "body_page":  7
+                                                  },
+                     "5.2\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "Figure 3.2 illustrates the client-server system architecture of Vibe-Cuts across its operational tiers.":  {
+                                                                                                                                     "doc_page":  23,
+                                                                                                                                     "body_page":  16
+                                                                                                                                 },
+                     "4.2.6 Component \u0026 Deployment Modeling":  {
+                                                                        "doc_page":  31,
+                                                                        "body_page":  24
+                                                                    },
+                     "Figure 7.2 displays the primary editing studio workspace, integrating the video playback monitor, interactive timeline, and tool palettes.":  {
+                                                                                                                                                                        "doc_page":  43,
+                                                                                                                                                                        "body_page":  36
+                                                                                                                                                                    },
+                     "1.2 Problem Definition and Limitations of Existing Solutions\r\u0007":  {
+                                                                                                  "doc_page":  7,
+                                                                                                  "body_page":  7
+                                                                                              },
+                     "7.2.4 System Performance Benchmark \u0026 Processing Latency Graph\r\u0007":  {
+                                                                                                        "doc_page":  8,
+                                                                                                        "body_page":  1
+                                                                                                    },
+                     "7.1.2 HomeScreen \u0026 Main Video Studio Editor\r\u0007":  {
+                                                                                      "doc_page":  8,
+                                                                                      "body_page":  1
+                                                                                  },
+                     "4.1 Architectural Design Principles \u0026 Design Patterns":  {
+                                                                                        "doc_page":  28,
+                                                                                        "body_page":  21
+                                                                                    },
+                     "2.5 Comparative Literature Survey \u0026 Research Gap Analysis":  {
+                                                                                            "doc_page":  19,
+                                                                                            "body_page":  12
+                                                                                        },
+                     "Table 4.1 specifies the primary use cases and system actions.":  {
+                                                                                           "doc_page":  28,
+                                                                                           "body_page":  21
+                                                                                       },
+                     "Figure 7.7: Audio Transient Extraction \u0026 Beat Peak Alignment Waveform":  {
+                                                                                                        "doc_page":  44,
+                                                                                                        "body_page":  37
+                                                                                                    },
+                     "Table 6.4 summarizes system performance across leading web browsers and operating systems.":  {
+                                                                                                                        "doc_page":  42,
+                                                                                                                        "body_page":  35
+                                                                                                                    },
+                     "5.2.2 Procedural FFmpeg Filtergraph Construction Algorithm":  {
+                                                                                        "doc_page":  36,
+                                                                                        "body_page":  29
+                                                                                    },
+                     "6.2 Unit Testing\r\u0007":  {
+                                                      "doc_page":  8,
+                                                      "body_page":  1
+                                                  },
+                     "3.3 Proposed System: The Client-First Decentralized Paradigm":  {
+                                                                                          "doc_page":  21,
+                                                                                          "body_page":  14
+                                                                                      },
+                     "3.5 System Architecture":  {
+                                                     "doc_page":  23,
+                                                     "body_page":  16
+                                                 },
+                     "3.3 Proposed System: The Client-First Decentralized Paradigm\r\u0007":  {
+                                                                                                  "doc_page":  7,
+                                                                                                  "body_page":  7
+                                                                                              },
+                     "4.8 MediaPipe Dynamic 9:16 Face-Tracking Reframing\r\u0007":  {
+                                                                                        "doc_page":  7,
+                                                                                        "body_page":  7
+                                                                                    },
+                     "5.2.1 Client-Side Audio Beat \u0026 Transient Extraction Algorithm\r\u0007":  {
+                                                                                                        "doc_page":  8,
+                                                                                                        "body_page":  1
+                                                                                                    },
+                     "7.95%\r\u0007":  {
+                                           "doc_page":  42,
+                                           "body_page":  35
+                                       },
+                     "8.3 Future Scope \u0026 Stage-II Development Roadmap\r\u0007":  {
+                                                                                          "doc_page":  8,
+                                                                                          "body_page":  1
+                                                                                      },
+                     "7.4\r\u0007":  {
+                                         "doc_page":  9,
+                                         "body_page":  2
+                                     },
+                     "6.7 Cross-Browser \u0026 Cross-Platform Compatibility Matrix":  {
+                                                                                          "doc_page":  42,
+                                                                                          "body_page":  35
+                                                                                      },
+                     "6.5 Whisper ASR Word Error Rate (WER) Evaluation\r\u0007":  {
+                                                                                      "doc_page":  8,
+                                                                                      "body_page":  1
+                                                                                  },
+                     "4.3\r\u0007":  {
+                                         "doc_page":  9,
+                                         "body_page":  2
+                                     },
+                     "6.4\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "Table 3.3: Functional Requirements Specification Matrix":  {
+                                                                                     "doc_page":  23,
+                                                                                     "body_page":  16
+                                                                                 },
+                     "7.1.4 Cinematic VFX \u0026 Filter Customization Panel\r\u0007":  {
+                                                                                           "doc_page":  8,
+                                                                                           "body_page":  1
+                                                                                       },
+                     "Table 3.2 details the software operating environment, platform dependencies, and runtime libraries.":  {
+                                                                                                                                 "doc_page":  27,
+                                                                                                                                 "body_page":  20
+                                                                                                                             },
+                     "Figure 4.1: UML Use Case Diagram of the Vibe-Cuts System":  {
+                                                                                      "doc_page":  28,
+                                                                                      "body_page":  21
+                                                                                  },
+                     "1.2 Problem Definition and Limitations of Existing Solutions":  {
+                                                                                          "doc_page":  13,
+                                                                                          "body_page":  6
+                                                                                      },
+                     "Figure 7.9 shows the kinetic subtitle alignment timeline, demonstrating word-level highlighting synchronized with dialogue audio.":  {
+                                                                                                                                                               "doc_page":  45,
+                                                                                                                                                               "body_page":  38
+                                                                                                                                                           },
+                     "3.6.4 Software Requirements\r\u0007":  {
+                                                                 "doc_page":  7,
+                                                                 "body_page":  7
+                                                             },
+                     "Figure 7.4: Cinematic VFX \u0026 Filter Customization Panel":  {
+                                                                                         "doc_page":  44,
+                                                                                         "body_page":  37
+                                                                                     },
+                     "Figure 7.10: System Performance Benchmark \u0026 Processing Latency Graph":  {
+                                                                                                       "doc_page":  45,
+                                                                                                       "body_page":  38
+                                                                                                   },
+                     "6.3 Integration Testing":  {
+                                                     "doc_page":  40,
+                                                     "body_page":  33
+                                                 },
+                     "4.2\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "3.6 System Requirements Specification (SRS)":  {
+                                                                         "doc_page":  23,
+                                                                         "body_page":  16
+                                                                     },
+                     "CHAPTER 8: CONCLUSION AND FUTURE WORK":  {
+                                                                   "doc_page":  48,
+                                                                   "body_page":  41
+                                                               },
+                     "4.4 Mathematical Formulations \u0026 Audio Digital Signal Processing\r\u0007":  {
+                                                                                                          "doc_page":  7,
+                                                                                                          "body_page":  7
+                                                                                                      },
+                     "Table 6.3: Whisper ASR Word Error Rate (WER) Acoustic Evaluation Matrix":  {
+                                                                                                     "doc_page":  41,
+                                                                                                     "body_page":  34
+                                                                                                 },
+                     "Table 4.2: Mathematical Filtergraph Transform Mapping Table":  {
+                                                                                         "doc_page":  33,
+                                                                                         "body_page":  26
+                                                                                     },
+                     "5.2.1 Client-Side Audio Beat \u0026 Transient Extraction Algorithm":  {
+                                                                                                "doc_page":  35,
+                                                                                                "body_page":  28
+                                                                                            },
+                     "6.2\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "7.2.2 Procedural Zoom \u0026 Glitch VFX Synchronization Waveform\r\u0007":  {
+                                                                                                      "doc_page":  8,
+                                                                                                      "body_page":  1
+                                                                                                  },
+                     "4.2 Comprehensive UML Modeling":  {
+                                                            "doc_page":  28,
+                                                            "body_page":  21
+                                                        },
+                     "Figure 7.9: Sub-Frame Subtitle Alignment \u0026 Word-Level Highlighting":  {
+                                                                                                     "doc_page":  45,
+                                                                                                     "body_page":  38
+                                                                                                 },
+                     "3.2\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "7.63%\r\u0007":  {
+                                           "doc_page":  41,
+                                           "body_page":  34
+                                       },
+                     "7.2.1 Audio Transient Extraction \u0026 Beat Peak Alignment Waveform\r\u0007":  {
+                                                                                                          "doc_page":  8,
+                                                                                                          "body_page":  1
+                                                                                                      },
+                     "4.4\r\u0007":  {
+                                         "doc_page":  9,
+                                         "body_page":  2
+                                     },
+                     "4.2.3 Sequence Diagram":  {
+                                                    "doc_page":  30,
+                                                    "body_page":  23
+                                                },
+                     "7.3 Comparative Analysis with Commercial Platforms\r\u0007":  {
+                                                                                        "doc_page":  8,
+                                                                                        "body_page":  1
+                                                                                    },
+                     "3.6.3 Hardware Requirements":  {
+                                                         "doc_page":  26,
+                                                         "body_page":  19
+                                                     },
+                     "3.4 Feasibility Study":  {
+                                                   "doc_page":  22,
+                                                   "body_page":  15
+                                               },
+                     "5.2.3 Dual-Pass WASM Rendering \u0026 Worker Execution\r\u0007":  {
+                                                                                            "doc_page":  8,
+                                                                                            "body_page":  1
+                                                                                        },
+                     "Table 6.1 summarizes the unit test specifications, test vectors, expected outcomes, and verification results.":  {
+                                                                                                                                           "doc_page":  39,
+                                                                                                                                           "body_page":  32
+                                                                                                                                       },
+                     "7.5 Practical Industry \u0026 Commercial Applications":  {
+                                                                                   "doc_page":  47,
+                                                                                   "body_page":  40
+                                                                               },
+                     "7.1.5 Kinetic Captions \u0026 Whisper Subtitle Inspector":  {
+                                                                                      "doc_page":  44,
+                                                                                      "body_page":  37
+                                                                                  },
+                     "5.2 Core Implementation Algorithms \u0026 Production Code\r\u0007":  {
+                                                                                               "doc_page":  8,
+                                                                                               "body_page":  1
+                                                                                           },
+                     "4.1 Architectural Design Principles \u0026 Design Patterns\r\u0007":  {
+                                                                                                "doc_page":  7,
+                                                                                                "body_page":  7
+                                                                                            },
+                     "4.6 Procedural VFX Mathematical Expressions \u0026 Filtergraph Compiler\r\u0007":  {
+                                                                                                             "doc_page":  7,
+                                                                                                             "body_page":  7
+                                                                                                         },
+                     "7.1.6 WASM Export \u0026 Multi-Format Render Panel\r\u0007":  {
+                                                                                        "doc_page":  8,
+                                                                                        "body_page":  1
+                                                                                    },
+                     "6.3 Integration Testing\r\u0007":  {
+                                                             "doc_page":  8,
+                                                             "body_page":  1
+                                                         },
+                     "Table 4.2 summarizes the mathematical transformation functions compiled by Vibe-Cuts into native FFmpeg filter strings.":  {
+                                                                                                                                                     "doc_page":  33,
+                                                                                                                                                     "body_page":  26
+                                                                                                                                                 },
+                     "6.3\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "5.1 Technology Stack \u0026 Architectural Setup":  {
+                                                                             "doc_page":  35,
+                                                                             "body_page":  28
+                                                                         },
+                     "7.1 Graphical User Interface Walkthrough \u0026 Features":  {
+                                                                                      "doc_page":  43,
+                                                                                      "body_page":  36
+                                                                                  },
+                     "7.1.1 Project Ingestion \u0026 Asset Library Dashboard\r\u0007":  {
+                                                                                            "doc_page":  8,
+                                                                                            "body_page":  1
+                                                                                        },
+                     "4.5 Dual-Pass FFmpeg WebAssembly Memory Architecture":  {
+                                                                                  "doc_page":  32,
+                                                                                  "body_page":  25
+                                                                              },
+                     "4.7 Speech-to-Text Whisper Subtitle Engine":  {
+                                                                        "doc_page":  33,
+                                                                        "body_page":  26
+                                                                    },
+                     "3.6 System Requirements Specification (SRS)\r\u0007":  {
+                                                                                 "doc_page":  7,
+                                                                                 "body_page":  7
+                                                                             },
+                     "Table 3.1 specifies the minimum and recommended client hardware configurations for running Vibe-Cuts.":  {
+                                                                                                                                   "doc_page":  26,
+                                                                                                                                   "body_page":  19
+                                                                                                                               },
+                     "1.49x\r\u0007":  {
+                                           "doc_page":  46,
+                                           "body_page":  39
+                                       },
+                     "Table 7.2 provides quantitative rendering performance benchmarks across varied reel configurations.":  {
+                                                                                                                                 "doc_page":  45,
+                                                                                                                                 "body_page":  38
+                                                                                                                             },
+                     "Table 4.1: Detailed Use Case Specification Matrix":  {
+                                                                               "doc_page":  28,
+                                                                               "body_page":  21
+                                                                           },
+                     "3.6.1 Functional Requirements":  {
+                                                           "doc_page":  23,
+                                                           "body_page":  16
+                                                       },
+                     "3.4\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "Figure 4.3: UML Sequence Diagram for Asynchronous Beat Extraction and Dual-Pass Render":  {
+                                                                                                                    "doc_page":  30,
+                                                                                                                    "body_page":  23
+                                                                                                                },
+                     "4.2.5 State Machine Diagram":  {
+                                                         "doc_page":  30,
+                                                         "body_page":  23
+                                                     },
+                     "7.7\r\u0007":  {
+                                         "doc_page":  9,
+                                         "body_page":  2
+                                     },
+                     "Table 3.4 details the formal non-functional requirements and quality attributes.":  {
+                                                                                                              "doc_page":  25,
+                                                                                                              "body_page":  18
+                                                                                                          },
+                     "CHAPTER 6: TESTING":  {
+                                                "doc_page":  39,
+                                                "body_page":  32
+                                            },
+                     "Table 3.3 specifies the fourteen formal functional requirements (F-01 through F-14) implemented in the system.":  {
+                                                                                                                                            "doc_page":  23,
+                                                                                                                                            "body_page":  16
+                                                                                                                                        },
+                     "4.2.4 Activity Diagram":  {
+                                                    "doc_page":  30,
+                                                    "body_page":  23
+                                                },
+                     "3.2 Existing System Analysis\r\u0007":  {
+                                                                  "doc_page":  7,
+                                                                  "body_page":  7
+                                                              },
+                     "3.3\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "Figure 4.3 presents the UML Sequence Diagram illustrating asynchronous message exchanges between the Creator, UI Thread, Audio DSP Worker, and WASM Video Worker during automated reel generation.":  {
+                                                                                                                                                                                                                                "doc_page":  30,
+                                                                                                                                                                                                                                "body_page":  23
+                                                                                                                                                                                                                            },
+                     "Table 2.1: Comparative Literature Survey of Video Editing Systems":  {
+                                                                                               "doc_page":  19,
+                                                                                               "body_page":  12
+                                                                                           },
+                     "7.4 Architectural Advantages \u0026 Technical Merits":  {
+                                                                                  "doc_page":  46,
+                                                                                  "body_page":  39
+                                                                              },
+                     "7.1 Graphical User Interface Walkthrough \u0026 Features\r\u0007":  {
+                                                                                              "doc_page":  8,
+                                                                                              "body_page":  1
+                                                                                          },
+                     "7.2.1 Audio Transient Extraction \u0026 Beat Peak Alignment Waveform":  {
+                                                                                                  "doc_page":  44,
+                                                                                                  "body_page":  37
+                                                                                              },
+                     "7.5\r\u0007":  {
+                                         "doc_page":  9,
+                                         "body_page":  2
+                                     },
+                     "1.5 Organization of the Report\r\u0007":  {
+                                                                    "doc_page":  7,
+                                                                    "body_page":  7
+                                                                },
+                     "Figure 7.4 presents the visual effects customization panel, enabling creators to toggle punch-in zooms, RGB glitches, and strobe flashes.":  {
+                                                                                                                                                                       "doc_page":  43,
+                                                                                                                                                                       "body_page":  36
+                                                                                                                                                                   },
+                     "7.1.5 Kinetic Captions \u0026 Whisper Subtitle Inspector\r\u0007":  {
+                                                                                              "doc_page":  8,
+                                                                                              "body_page":  1
+                                                                                          },
+                     "Table 7.2: Quantitative Rendering Performance and Latency Benchmarks":  {
+                                                                                                  "doc_page":  45,
+                                                                                                  "body_page":  38
+                                                                                              },
+                     "3.2 Existing System Analysis":  {
+                                                          "doc_page":  21,
+                                                          "body_page":  14
+                                                      },
+                     "Table 6.2 summarizes system integration test scenarios verifying end-to-end operational pipelines.":  {
+                                                                                                                                "doc_page":  40,
+                                                                                                                                "body_page":  33
+                                                                                                                            },
+                     "3.6.2 Non-Functional Requirements\r\u0007":  {
+                                                                       "doc_page":  7,
+                                                                       "body_page":  7
+                                                                   },
+                     "8.3 Future Scope \u0026 Stage-II Development Roadmap":  {
+                                                                                  "doc_page":  48,
+                                                                                  "body_page":  41
+                                                                              },
+                     "7.3\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "Table 7.3: Memory Footprint Evaluation (WORKERFS vs MEMFS Linear Memory)":  {
+                                                                                                      "doc_page":  46,
+                                                                                                      "body_page":  39
+                                                                                                  },
+                     "7.1\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "4.2.1 Use Case Diagram \u0026 Specifications\r\u0007":  {
+                                                                                  "doc_page":  7,
+                                                                                  "body_page":  7
+                                                                              },
+                     "7.1.3 Audio Waveform \u0026 Beat Visualizer Interface":  {
+                                                                                   "doc_page":  43,
+                                                                                   "body_page":  36
+                                                                               },
+                     "CHAPTER 3: SYSTEM ANALYSIS":  {
+                                                        "doc_page":  21,
+                                                        "body_page":  14
+                                                    },
+                     "6.4 Audio Beat Synchronization Validation\r\u0007":  {
+                                                                               "doc_page":  8,
+                                                                               "body_page":  1
+                                                                           },
+                     "Table 3.4: Non-Functional Requirements \u0026 Performance Targets":  {
+                                                                                               "doc_page":  25,
+                                                                                               "body_page":  18
+                                                                                           },
+                     "8.2 Practical Engineering Limitations Identified\r\u0007":  {
+                                                                                      "doc_page":  8,
+                                                                                      "body_page":  1
+                                                                                  },
+                     "3.1\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "7.4 Architectural Advantages \u0026 Technical Merits\r\u0007":  {
+                                                                                          "doc_page":  8,
+                                                                                          "body_page":  1
+                                                                                      },
+                     "5.2.4 FastAPI Microservice for Subtitle Extraction":  {
+                                                                                "doc_page":  37,
+                                                                                "body_page":  30
+                                                                            },
+                     "5.2.4 FastAPI Microservice for Subtitle Extraction\r\u0007":  {
+                                                                                        "doc_page":  8,
+                                                                                        "body_page":  1
+                                                                                    },
+                     "3.6.1 Functional Requirements\r\u0007":  {
+                                                                   "doc_page":  7,
+                                                                   "body_page":  7
+                                                               },
+                     "4.4.1 Second-Order Lowpass Biquad Filter Transfer Function":  {
+                                                                                        "doc_page":  31,
+                                                                                        "body_page":  24
+                                                                                    },
+                     "4.3 Data Flow Modeling (DFD Level 0, Level 1 \u0026 Level 2)\r\u0007":  {
+                                                                                                  "doc_page":  7,
+                                                                                                  "body_page":  7
+                                                                                              },
+                     "7.2\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "1.3 Objectives of the Project":  {
+                                                           "doc_page":  14,
+                                                           "body_page":  7
+                                                       },
+                     "2.3 Evolution of Web Computing: WebAssembly and Client-Side Media Processing\r\u0007":  {
+                                                                                                                  "doc_page":  7,
+                                                                                                                  "body_page":  7
+                                                                                                              },
+                     "2.5 Comparative Literature Survey \u0026 Research Gap Analysis\r\u0007":  {
+                                                                                                    "doc_page":  7,
+                                                                                                    "body_page":  7
+                                                                                                },
+                     "CHAPTER 4: SYSTEM DESIGN":  {
+                                                      "doc_page":  28,
+                                                      "body_page":  21
+                                                  },
+                     "5.2.5 MediaPipe Face Detection \u0026 Saliency Horizontal Crop":  {
+                                                                                            "doc_page":  37,
+                                                                                            "body_page":  30
+                                                                                        },
+                     "Table 3.1: Hardware Requirements Specification":  {
+                                                                            "doc_page":  26,
+                                                                            "body_page":  19
+                                                                        },
+                     "Figure 4.1 presents the UML Use Case Diagram illustrating user interactions with the system.":  {
+                                                                                                                          "doc_page":  28,
+                                                                                                                          "body_page":  21
+                                                                                                                      },
+                     "Table 6.3 details the speech recognition accuracy of the local OpenAI Whisper ASR model under varying acoustic conditions.":  {
+                                                                                                                                                        "doc_page":  41,
+                                                                                                                                                        "body_page":  34
+                                                                                                                                                    },
+                     "Table 2.1 presents a comprehensive comparative literature matrix evaluating representative video editing frameworks across eight critical technical dimensions.":  {
+                                                                                                                                                                                             "doc_page":  19,
+                                                                                                                                                                                             "body_page":  12
+                                                                                                                                                                                         },
+                     "5.1\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "3.6.2 Non-Functional Requirements":  {
+                                                               "doc_page":  25,
+                                                               "body_page":  18
+                                                           },
+                     "4.6 Procedural VFX Mathematical Expressions \u0026 Filtergraph Compiler":  {
+                                                                                                     "doc_page":  33,
+                                                                                                     "body_page":  26
+                                                                                                 },
+                     "3.4 Feasibility Study\r\u0007":  {
+                                                           "doc_page":  7,
+                                                           "body_page":  7
+                                                       },
+                     "6.7 Cross-Browser \u0026 Cross-Platform Compatibility Matrix\r\u0007":  {
+                                                                                                  "doc_page":  8,
+                                                                                                  "body_page":  1
+                                                                                              },
+                     "4.3 Data Flow Modeling (DFD Level 0, Level 1 \u0026 Level 2)":  {
+                                                                                          "doc_page":  31,
+                                                                                          "body_page":  24
+                                                                                      },
+                     "7.2 Experimental Benchmark Results\r\u0007":  {
+                                                                        "doc_page":  8,
+                                                                        "body_page":  1
+                                                                    },
+                     "4.2.5 State Machine Diagram\r\u0007":  {
+                                                                 "doc_page":  7,
+                                                                 "body_page":  7
+                                                             },
+                     "2.1 Theoretical Foundations of Audio-Visual Beat Synchronization\r\u0007":  {
+                                                                                                      "doc_page":  7,
+                                                                                                      "body_page":  7
+                                                                                                  },
+                     "Figure 7.5: Kinetic Captions \u0026 Whisper Subtitle Inspector":  {
+                                                                                            "doc_page":  44,
+                                                                                            "body_page":  37
+                                                                                        },
+                     "3.5 System Architecture\r\u0007":  {
+                                                             "doc_page":  7,
+                                                             "body_page":  7
+                                                         },
+                     "4.2.2 Class Diagram \u0026 Structural Domain Model\r\u0007":  {
+                                                                                        "doc_page":  7,
+                                                                                        "body_page":  7
+                                                                                    },
+                     "Table 6.4: Cross-Browser and Operating System Compatibility Matrix":  {
+                                                                                                "doc_page":  42,
+                                                                                                "body_page":  35
+                                                                                            },
+                     "Table 5.1: Software Module Decomposition and Responsibility Distribution":  {
+                                                                                                      "doc_page":  35,
+                                                                                                      "body_page":  28
+                                                                                                  },
+                     "4.4.2 Moving-Window RMS \u0026 Adaptive Peak Picking Algorithm\r\u0007":  {
+                                                                                                    "doc_page":  7,
+                                                                                                    "body_page":  7
+                                                                                                },
+                     "Figure 7.6: WASM Export \u0026 Multi-Format Render Panel":  {
+                                                                                      "doc_page":  44,
+                                                                                      "body_page":  37
+                                                                                  },
+                     "4.1\r\u0007":  {
+                                         "doc_page":  10,
+                                         "body_page":  3
+                                     },
+                     "Figure 7.7 depicts the audio transient extraction waveform, comparing raw audio against the 150 Hz biquad filtered signal and detected beat markers.":  {
+                                                                                                                                                                                  "doc_page":  44,
+                                                                                                                                                                                  "body_page":  37
+                                                                                                                                                                              },
+                     "6.1 Objectives and Test Strategy\r\u0007":  {
+                                                                      "doc_page":  8,
+                                                                      "body_page":  1
+                                                                  },
+                     "CHAPTER 1: INTRODUCTION":  {
+                                                     "doc_page":  13,
+                                                     "body_page":  6
+                                                 },
+                     "1.1 Overview and Background\r\u0007":  {
+                                                                 "doc_page":  7,
+                                                                 "body_page":  7
+                                                             },
+                     "Figure 7.8 illustrates procedural camera zoom scale and RGB split glitch curves synchronized precisely to kick-drum transients.":  {
+                                                                                                                                                             "doc_page":  45,
+                                                                                                                                                             "body_page":  38
+                                                                                                                                                         },
+                     "4.7 Speech-to-Text Whisper Subtitle Engine\r\u0007":  {
+                                                                                "doc_page":  7,
+                                                                                "body_page":  7
+                                                                            },
+                     "8.1 Summary of Stage-I Contributions\r\u0007":  {
+                                                                          "doc_page":  8,
+                                                                          "body_page":  1
+                                                                      },
+                     "7.2.2 Procedural Zoom \u0026 Glitch VFX Synchronization Waveform":  {
+                                                                                              "doc_page":  44,
+                                                                                              "body_page":  37
+                                                                                          },
+                     "5.2.5 MediaPipe Face Detection \u0026 Saliency Horizontal Crop\r\u0007":  {
+                                                                                                    "doc_page":  8,
+                                                                                                    "body_page":  1
+                                                                                                },
+                     "5.2 Core Implementation Algorithms \u0026 Production Code":  {
+                                                                                       "doc_page":  35,
+                                                                                       "body_page":  28
+                                                                                   },
+                     "Figure 3.1: Functional Flow Chart of the Automated Highlight \u0026 Beat-Synced Generation Process":  {
+                                                                                                                                "doc_page":  23,
+                                                                                                                                "body_page":  16
+                                                                                                                            },
+                     "7.2.3 Sub-Frame Subtitle Alignment \u0026 Word-Level Highlighting\r\u0007":  {
+                                                                                                       "doc_page":  8,
+                                                                                                       "body_page":  1
+                                                                                                   },
+                     "3.1 Introduction":  {
+                                              "doc_page":  21,
+                                              "body_page":  14
+                                          },
+                     "CHAPTER 5: IMPLEMENTATION":  {
+                                                       "doc_page":  35,
+                                                       "body_page":  28
+                                                   },
+                     "CHAPTER 7: RESULTS AND DISCUSSION":  {
+                                                               "doc_page":  43,
+                                                               "body_page":  36
+                                                           },
+                     "4.2.1 Use Case Diagram \u0026 Specifications":  {
+                                                                          "doc_page":  28,
+                                                                          "body_page":  21
+                                                                      },
+                     "4.2.3 Sequence Diagram\r\u0007":  {
+                                                            "doc_page":  7,
+                                                            "body_page":  7
+                                                        },
+                     "Figure 7.3: Audio Waveform \u0026 Beat Visualizer Interface":  {
+                                                                                         "doc_page":  43,
+                                                                                         "body_page":  36
+                                                                                     },
+                     "7.9\r\u0007":  {
+                                         "doc_page":  9,
+                                         "body_page":  2
+                                     },
+                     "TABLE OF CONTENTS":  {
+                                               "doc_page":  7,
+                                               "body_page":  7
+                                           },
+                     "Figure 7.2: HomeScreen \u0026 Main Video Studio Editor":  {
+                                                                                    "doc_page":  43,
+                                                                                    "body_page":  36
+                                                                                },
+                     "Table 6.1: Unit Test Cases Specification and Verification Results":  {
+                                                                                               "doc_page":  39,
+                                                                                               "body_page":  32
+                                                                                           },
+                     "Figure 4.2: UML Class Diagram Representing Core System Entities and Operations":  {
+                                                                                                            "doc_page":  29,
+                                                                                                            "body_page":  22
+                                                                                                        },
+                     "7.2.3 Sub-Frame Subtitle Alignment \u0026 Word-Level Highlighting":  {
+                                                                                               "doc_page":  45,
+                                                                                               "body_page":  38
+                                                                                           },
+                     "5.2.2 Procedural FFmpeg Filtergraph Construction Algorithm\r\u0007":  {
+                                                                                                "doc_page":  8,
+                                                                                                "body_page":  1
+                                                                                            },
+                     "Figure 4.2 presents the UML Class Diagram defining core classes, interfaces, and associations.":  {
+                                                                                                                            "doc_page":  29,
+                                                                                                                            "body_page":  22
+                                                                                                                        },
+                     "4.2 Comprehensive UML Modeling\r\u0007":  {
+                                                                    "doc_page":  7,
+                                                                    "body_page":  7
+                                                                },
+                     "Table 7.3 evaluates browser memory footprints comparing standard Emscripten MEMFS with the zero-copy WORKERFS implementation.":  {
+                                                                                                                                                           "doc_page":  46,
+                                                                                                                                                           "body_page":  39
+                                                                                                                                                       },
+                     "CHAPTER 2: LITERATURE SURVEY / REVIEW":  {
+                                                                   "doc_page":  17,
+                                                                   "body_page":  10
+                                                               },
+                     "7.2 Experimental Benchmark Results":  {
+                                                                "doc_page":  44,
+                                                                "body_page":  37
+                                                            },
+                     "Figure 4.4 illustrates the UML Activity Diagram depicting parallel multithreaded processing across the audio DSP worker and video decoding engine.":  {
+                                                                                                                                                                                "doc_page":  30,
+                                                                                                                                                                                "body_page":  23
+                                                                                                                                                                            },
+                     "Figure 7.3 highlights the interactive audio visualizer displaying decoded PCM waveforms with overlaid beat markers.":  {
+                                                                                                                                                 "doc_page":  43,
+                                                                                                                                                 "body_page":  36
+                                                                                                                                             },
+                     "6.6 Performance, Memory \u0026 Stress Testing\r\u0007":  {
+                                                                                   "doc_page":  8,
+                                                                                   "body_page":  1
+                                                                               },
+                     "4.2.4 Activity Diagram\r\u0007":  {
+                                                            "doc_page":  7,
+                                                            "body_page":  7
+                                                        },
+                     "LIST OF FIGURES":  {
+                                             "doc_page":  9,
+                                             "body_page":  2
+                                         },
+                     "5.2.3 Dual-Pass WASM Rendering \u0026 Worker Execution":  {
+                                                                                    "doc_page":  37,
+                                                                                    "body_page":  30
+                                                                                },
+                     "1.3 Objectives of the Project\r\u0007":  {
+                                                                   "doc_page":  7,
+                                                                   "body_page":  7
+                                                               },
+                     "Table 5.2: In-Browser SharedArrayBuffer Security Header Directives":  {
+                                                                                                "doc_page":  38,
+                                                                                                "body_page":  31
+                                                                                            },
+                     "1.4 Scope and Feasibility of the Project\r\u0007":  {
+                                                                              "doc_page":  7,
+                                                                              "body_page":  7
+                                                                          },
+                     "Table 3.2: Software Requirements Specification":  {
+                                                                            "doc_page":  27,
+                                                                            "body_page":  20
+                                                                        },
+                     "7.8\r\u0007":  {
+                                         "doc_page":  9,
+                                         "body_page":  2
+                                     },
+                     "7.3 Comparative Analysis with Commercial Platforms":  {
+                                                                                "doc_page":  46,
+                                                                                "body_page":  39
+                                                                            },
+                     "7.1.3 Audio Waveform \u0026 Beat Visualizer Interface\r\u0007":  {
+                                                                                           "doc_page":  8,
+                                                                                           "body_page":  1
+                                                                                       },
+                     "Figure 3.2: High-Level Client-Server System Architecture of Vibe-Cuts":  {
+                                                                                                   "doc_page":  23,
+                                                                                                   "body_page":  16
+                                                                                               },
+                     "1.1 Overview and Background":  {
+                                                         "doc_page":  13,
+                                                         "body_page":  6
+                                                     },
+                     "2.1 Theoretical Foundations of Audio-Visual Beat Synchronization":  {
+                                                                                              "doc_page":  17,
+                                                                                              "body_page":  10
+                                                                                          },
+                     "4.8 MediaPipe Dynamic 9:16 Face-Tracking Reframing":  {
+                                                                                "doc_page":  33,
+                                                                                "body_page":  26
+                                                                            },
+                     "9.21%\r\u0007":  {
+                                           "doc_page":  41,
+                                           "body_page":  34
+                                       },
+                     "7.2.4 System Performance Benchmark \u0026 Processing Latency Graph":  {
+                                                                                                "doc_page":  45,
+                                                                                                "body_page":  38
+                                                                                            },
+                     "4.4.1 Second-Order Lowpass Biquad Filter Transfer Function\r\u0007":  {
+                                                                                                "doc_page":  7,
+                                                                                                "body_page":  7
+                                                                                            },
+                     "Figure 7.1 illustrates the project ingestion dashboard, featuring drag-and-drop file ingestion with instant metadata parsing and zero server egress.":  {
+                                                                                                                                                                                  "doc_page":  43,
+                                                                                                                                                                                  "body_page":  36
+                                                                                                                                                                              },
+                     "7.5 Practical Industry \u0026 Commercial Applications\r\u0007":  {
+                                                                                           "doc_page":  8,
+                                                                                           "body_page":  1
+                                                                                       },
+                     "5.3 Web UI Component Architecture \u0026 Timeline Canvas\r\u0007":  {
+                                                                                              "doc_page":  8,
+                                                                                              "body_page":  1
+                                                                                          }
+                 },
+    "sec2_start_page":  8,
+    "total_pages":  52
+}

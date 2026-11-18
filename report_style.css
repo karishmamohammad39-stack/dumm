@@ -1,0 +1,481 @@
+/* Academic Report Stylesheet - Balaji Institute of Technology & Science Template Standards */
+@page {
+  size: A4 portrait;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 12pt;
+  line-height: 1.5;
+  color: #111111;
+  text-align: justify;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+/* Headings */
+h1.chapter-title {
+  font-size: 14pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 25px;
+  page-break-before: always;
+  color: #000000;
+  letter-spacing: 0.5px;
+}
+
+h2.section-heading {
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  text-align: left;
+  color: #000000;
+}
+
+h3.subsection-heading {
+  font-size: 12pt;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 14px;
+  margin-bottom: 6px;
+  text-align: left;
+  color: #000000;
+}
+
+/* Paragraphs and Lists */
+p {
+  margin-top: 0;
+  margin-bottom: 12px;
+  text-indent: 0.35in;
+  text-align: justify;
+}
+
+p.no-indent {
+  text-indent: 0;
+}
+
+ul, ol {
+  margin-top: 0;
+  margin-bottom: 12px;
+  padding-left: 0.5in;
+  text-align: justify;
+}
+
+li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+}
+
+/* Cover and Prelim Pages */
+.cover-page {
+  text-align: center;
+  height: 100%;
+  page-break-before: auto;
+  page-break-after: always;
+}
+
+.cover-header-main {
+  font-size: 14pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #000000;
+  letter-spacing: 0.5px;
+  margin-top: 5px;
+}
+
+.cover-header-on {
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 6px;
+  margin-bottom: 10px;
+}
+
+.cover-title-red {
+  font-size: 14pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #b22222;
+  line-height: 1.35;
+  margin: 10px 0 14px 0;
+}
+
+.cover-sub-text {
+  font-size: 11pt;
+  line-height: 1.4;
+  margin-bottom: 14px;
+}
+
+.cover-degree-bold {
+  font-size: 13pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.cover-dept-blue {
+  font-size: 12.5pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #1b65a4;
+  margin-top: 4px;
+}
+
+.cover-by {
+  font-size: 11pt;
+  font-weight: bold;
+  margin: 12px 0 6px 0;
+}
+
+.cover-author-table {
+  margin: 0 auto 12px auto;
+  font-size: 11pt;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+.cover-author-table td {
+  padding: 1px 8px;
+}
+
+.cover-guidance-heading {
+  font-size: 11pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+
+.cover-guide-name-red {
+  font-size: 12pt;
+  font-weight: bold;
+  color: #b22222;
+  margin-bottom: 2px;
+}
+
+.cover-guide-desig {
+  font-size: 10.5pt;
+  font-weight: bold;
+  margin-bottom: 14px;
+}
+
+.cover-logo-container {
+  margin: 10px auto;
+  text-align: center;
+}
+
+.cover-logo-img {
+  width: 95px;
+  height: auto;
+}
+
+.cover-college-block {
+  line-height: 1.35;
+}
+
+.cover-inst-red {
+  font-size: 13pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #b22222;
+  margin-top: 4px;
+}
+
+.cover-autonomous-red {
+  font-size: 12pt;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #b22222;
+}
+
+.cover-accreditation {
+  font-size: 9pt;
+  font-weight: bold;
+  margin-top: 4px;
+  color: #000000;
+}
+
+.cover-location {
+  font-size: 9.5pt;
+  font-weight: bold;
+  margin-top: 3px;
+}
+
+.cover-year {
+  font-size: 11pt;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+/* Certificate Page */
+.cert-page {
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.cert-header {
+  text-align: center;
+  line-height: 1.35;
+}
+
+.cert-inst-red {
+  font-size: 13pt;
+  font-weight: bold;
+  color: #b22222;
+  text-transform: uppercase;
+}
+
+.cert-auto-red {
+  font-size: 12pt;
+  font-weight: bold;
+  color: #b22222;
+  text-transform: uppercase;
+}
+
+.cert-dept-blue {
+  font-size: 11pt;
+  font-weight: bold;
+  color: #1b65a4;
+  text-transform: uppercase;
+  margin-top: 6px;
+}
+
+.cert-title-red {
+  text-align: center;
+  font-size: 14pt;
+  font-weight: bold;
+  color: #b22222;
+  letter-spacing: 1px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.cert-body {
+  font-size: 12pt;
+  line-height: 1.7;
+  text-align: justify;
+  text-indent: 0;
+  margin-bottom: 25px;
+}
+
+.cert-names-blue {
+  color: #1b65a4;
+  font-weight: bold;
+}
+
+.cert-sig-row {
+  margin-top: 70px;
+  width: 100%;
+}
+
+.cert-sig-left {
+  float: left;
+  width: 45%;
+  text-align: left;
+}
+
+.cert-sig-right {
+  float: right;
+  width: 45%;
+  text-align: right;
+}
+
+.cert-sig-label-red {
+  color: #b22222;
+  font-weight: bold;
+  font-size: 11.5pt;
+  margin-bottom: 25px;
+}
+
+.cert-sig-details {
+  font-size: 11pt;
+  line-height: 1.35;
+}
+
+/* Acknowledgement Page */
+.ack-title-blue {
+  text-align: center;
+  font-size: 14pt;
+  font-weight: bold;
+  color: #1b65a4;
+  letter-spacing: 0.5px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.ack-name-red {
+  color: #b22222;
+  font-weight: bold;
+}
+
+.ack-name-green {
+  color: #1e7e34;
+  font-weight: bold;
+}
+
+.ack-students {
+  margin-top: 45px;
+  text-align: right;
+  font-size: 11pt;
+  font-weight: bold;
+  line-height: 1.6;
+}
+
+/* Abstract Page */
+.abstract-title-red {
+  text-align: center;
+  font-size: 14pt;
+  font-weight: bold;
+  color: #b22222;
+  letter-spacing: 0.5px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+.keywords-label-red {
+  color: #b22222;
+  font-weight: bold;
+}
+
+/* Table of Contents & List of Figures Tables */
+.toc-container, .lof-container {
+  page-break-before: always;
+  width: 100%;
+}
+
+.toc-table, .lof-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 11.5pt;
+  line-height: 1.5;
+  margin-top: 15px;
+}
+
+.toc-table th, .lof-table th {
+  border: none;
+  border-bottom: 1.5pt solid #000000;
+  padding: 6px 4px;
+  text-align: left;
+  font-weight: bold;
+  background: none;
+}
+
+.toc-table th.right-header, .lof-table th.right-header {
+  text-align: right;
+}
+
+.toc-table td, .lof-table td {
+  border: none;
+  padding: 4px 4px;
+  vertical-align: top;
+}
+
+.toc-table td.page-col, .lof-table td.page-col {
+  text-align: right;
+  white-space: nowrap;
+}
+
+.toc-ch-num {
+  font-weight: bold;
+  width: 8%;
+}
+
+.toc-ch-title {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.toc-sub-title {
+  padding-left: 18px !important;
+}
+
+.toc-subsub-title {
+  padding-left: 36px !important;
+}
+
+.page-break {
+  page-break-before: always;
+}
+
+/* Tables */
+.table-title {
+  font-size: 11pt;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 6px;
+  color: #000000;
+}
+
+table.academic-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 18px;
+  font-size: 11pt;
+  line-height: 1.35;
+}
+
+table.academic-table th {
+  border-top: 1.5pt solid #000000;
+  border-bottom: 1.5pt solid #000000;
+  padding: 8px 10px;
+  text-align: left;
+  font-weight: bold;
+  background-color: #f8fafc;
+}
+
+table.academic-table td {
+  border-bottom: 0.75pt solid #cccccc;
+  padding: 8px 10px;
+  text-align: left;
+  vertical-align: top;
+}
+
+table.academic-table tr:last-child td {
+  border-bottom: 1.5pt solid #000000;
+}
+
+/* Figures */
+.figure-container {
+  text-align: center;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  page-break-inside: avoid;
+}
+
+.figure-caption {
+  font-size: 11pt;
+  font-style: italic;
+  text-align: center;
+  margin-top: 8px;
+  margin-bottom: 16px;
+  color: #222222;
+}
+
+/* Code Snippets */
+pre.code-block {
+  background-color: #f4f6f8;
+  border: 1pt solid #d1d5db;
+  border-radius: 4px;
+  padding: 10px 14px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 10pt;
+  line-height: 1.35;
+  overflow-x: auto;
+  margin: 14px 0;
+  text-align: left;
+  page-break-inside: avoid;
+}
+
+/* References */
+.reference-item {
+  font-size: 11pt;
+  line-height: 1.4;
+  margin-bottom: 10px;
+  padding-left: 0.35in;
+  text-indent: -0.35in;
+  text-align: justify;
+}

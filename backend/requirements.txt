@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ffmpeg-python
+openai-whisper
+python-multipart
+google-generativeai
+mediapipe
+scenedetect[opencv]
+python-dotenv
+requests
+librosa
